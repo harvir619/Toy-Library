@@ -1,3 +1,4 @@
+Created in 2019 => For Experience
 Description of the Database
 Location
 The database was made using xampp phpmyadmin. The location of the database can be found when searched “localhost/phpmyadmin” in the web browser. The database name is “Library”. The database “Library” consists of 4 tables which are Toys, Loaned, Reserved and User. To be able to connect to the website, you will need to connect to the local database and import “library.sql “to it. Afterwards, you will be required to move all of the content to “xampp/htdocs.” The website begins using “localhost/toylibrary.php”.
